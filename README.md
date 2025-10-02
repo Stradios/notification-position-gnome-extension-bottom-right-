@@ -6,10 +6,10 @@ Code focuses on being AS SIMPLE AS POSSIBLE to do JUST THAT!
 
 # TODO
 
-- [X] Top-right corner of the screen
+- [ ] Top-right corner of the screen (original working on Gnome 49)
 - [ ] Preferences screen/menu
 - [ ] Top-left corner of the screen
-- [ ] Bottom-right corner of the screen?
+- [X] Bottom-right corner of the screen? (changed to)
 - [ ] Bottom-left corner of the screen?
 
 # Thanks to
